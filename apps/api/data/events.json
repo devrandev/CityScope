@@ -1,0 +1,18 @@
+[
+  {
+    "id": "evt_001",
+    "title": "Acoustic Garden Sessions",
+    "description": "Relaxed acoustic music event with a quiet atmosphere.",
+    "category": "music",
+    "district": "Kadikoy",
+    "price": 650
+  },
+  {
+    "id": "evt_002",
+    "title": "Contemporary Art Night",
+    "description": "Evening exhibition with local contemporary artists.",
+    "category": "art",
+    "district": "Moda",
+    "price": 350
+  }
+]
